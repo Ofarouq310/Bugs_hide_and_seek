@@ -18,7 +18,7 @@ for (let i = 0; i < menuItems.length; i += 1) {
 }
 
 // dynamic preview-cards
-const cards = [{
+const cards = {[
   title: 'Multi-Post Stories',
   description: "A daily selection of privately personalized reads; no accounts or sign-ups required. has been the industry's standard.",
   img: 'Sources/Desktop/Snapshoot Portfolio.png',
