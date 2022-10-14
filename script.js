@@ -1,6 +1,6 @@
 const hamburger = document.querySelector('#hamburger');
 const mbMenu = document.querySelector('.mb_menu');
-const cross = document.querySelector('#x_icon');
+const cross = document.querySelector('.x_icon');
 const menuItems = document.getElementsByClassName('menu_list_items');
 
 hamburger.addEventListener('click', () => {
@@ -134,7 +134,7 @@ cards.forEach((card) => {
             <ul class="card-lang-wrapper">
               <li>${card.tech1}</li>
               <li>${card.tech2}</li>
-              <li>${card.tech3}</li>
+              <li>${card.tech2}</li>
             </ul>
           </div>
           <div class="card-content">
@@ -172,7 +172,7 @@ cards.forEach((card) => {
   }
 });
 
-const form = document.getElementById('form');
+const form = document.querySelector('form');
 const email = document.getElementById('email-address');
 
 const setError = (element, message) => {
