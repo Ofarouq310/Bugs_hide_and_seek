@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Microverse-Bugs-Exercise
+# MicroverseEx-Bugs_hide_seek
 
-> This is a Microverse (@microverse) project which aims at locating and fixing bugs within a JavaScript code using Developer Tools.
+> This is a Microverse project which aims at locating and fixing bugs within a JavaScript code using Developer Tools.
 
 
 ## Requirements
