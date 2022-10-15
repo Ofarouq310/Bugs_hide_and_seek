@@ -5,10 +5,6 @@
 > This is a Microverse project which aims at locating and fixing bugs within a JavaScript code using Developer Tools.
 
 
-## Requirements
-
-Include bugs in the JavaScript code to be discovered by the coding partner.
-
 ## Built With
 
 - HTML5
@@ -16,9 +12,11 @@ Include bugs in the JavaScript code to be discovered by the coding partner.
 - JavaScript
 - Linters
 
+
 ## Live Demo
 
 Check **Live Demo** [here.](https://github.com/Ofarouq310/Bugs_hide_and_seek/)
+
 
 ## Getting Started
 
@@ -37,19 +35,23 @@ To setup the webpage locally: click on "**Code**" (dropdown list) then "**Downlo
 
 To run the project open the downloaded folder (after extraction) then run the "**index.html**" file in your browser.
 
+
 ## Authors
 
 👤 **Omar Farouq**
 
 - GitHub: [@Ofarouq310](https://github.com/Ofarouq310)
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
 
 ## 📝 License
 
